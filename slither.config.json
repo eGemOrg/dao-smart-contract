@@ -1,0 +1,13 @@
+{
+  "compile_force_framework": "hardhat",
+  "filter_paths": "node_modules",
+  "hardhat_artifacts_directory": "artifacts",
+  "hardhat_cache_directory": "cache",
+  "detectors_to_exclude": "naming-convention,assembly,timestamp,low-level-calls,missing-zero-check,constable-states,similar-names,unused-return,uninitialized-local,reentrancy-unlimited-gas,reentrancy-events,reentrancy-benign",
+  "exclude_informational": false,
+  "exclude_low": false,
+  "exclude_medium": false,
+  "exclude_high": false,
+  "disable_color": false,
+  "legacy_ast": false
+}
